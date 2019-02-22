@@ -1,22 +1,22 @@
-Python Minecraft
+Python Algorithms
 ====================
 
-    Python Minecraft
+    Python Algorithms
 
       written by sean base on following books
 
-.. image:: ./img/chapter0_4.png
+
 
 .. image:: ./img/chapter0_3.png
 
-`Github <https://github.com/newsteinking/High_pythondocminecraft>`_ | https://github.com/newsteinking/High_pythondocminecraft
+`Github <https://github.com/bibiksh/python_algorithms>`_ | https://github.com/bibiksh/python_algorithms
 
 
 
 .. toctree::
    :maxdepth: 3
 
-   chapter1-0
+
    chapter1-1
    chapter1-2
    chapter1-3
